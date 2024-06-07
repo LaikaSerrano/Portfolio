@@ -1,0 +1,136 @@
+.projet-re {
+    width: 1440px;
+    height: 1219px;
+    position: relative;
+}
+
+.top-header-re {
+    width: 1440px;
+    height: 240px;
+    position: absolute;
+}
+
+.header-re {
+    width: 1440px;
+    height: 70px;
+    position: absolute;
+    top: 173px;
+}
+
+.header {
+    width: 1440px;
+    height: 67px;
+    background: #3E3A3A;
+    border-radius: 60px;
+    position: absolute;
+}
+
+.nom {
+    width: 600px;
+    height: 53px;
+    position: absolute;
+    left: 464px;
+    top: 7px;
+    color: white;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.nom-re {
+    width: 600px;
+    height: 53px;
+    position: absolute;
+    left: 464px;
+    top: 7px;
+    color: white;
+    font-size: 35px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.main-header {
+    width: 1440px;
+    height: 67px;
+    position: absolute;
+    top: 0;
+}
+
+.nom {
+    width: 275px;
+    height: 56px;
+    position: absolute;
+    left: 582px;
+    top: 5px;
+    color: white;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.github {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 1352px;
+    top: 8px;
+}
+
+.mail {
+    width: 55.02px;
+    height: 49px;
+    position: absolute;
+    left: 1272px;
+    top: 8px;
+}
+
+.linkedin {
+    width: 49px;
+    height: 48.34px;
+    position: absolute;
+    left: 1198px;
+    top: 9px;
+    border-radius: 10px;
+}
+
+.lorem-ipsum-wai {
+    width: 1000px;
+    height: 272px;
+    position: absolute;
+    left: 220px;
+    top: 326px;
+}
+
+.rectangle-8 {
+    width: 1000px;
+    height: 260px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 43px;
+}
+
+.lorem-ipsum {
+    width: 959px;
+    height: 248px;
+    position: absolute;
+    left: 20px;
+    top: 24px;
+    color: black;
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.image1 {
+    width: 886px;
+    height: 601px;
+    position: absolute;
+    left: 277px;
+    top: 618px;
+    border-radius: 6px;
+}

@@ -1,0 +1,343 @@
+.main {
+    width: 1440px;
+    height: 2608px;
+    position: relative;
+    background: white;
+}
+
+.parcours-scolaire-et-pro {
+    width: 1440px;
+    height: 356px;
+    left: 0px;
+    top: 1139px;
+    position: absolute;
+}
+
+.parcours-scolaire {
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #3E3A3A;
+    border-radius: 60px;
+}
+
+.parcours-scolaire-et-professionel {
+    width: 506px;
+    height: 12.10px;
+    left: 467px;
+    top: 6.49px;
+    position: absolute;
+    color: white;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.lorem-ipsum {
+    width: 1000px;
+    height: 260px;
+    left: 220px;
+    top: 96px;
+    position: absolute;
+}
+
+.rectangle-9 {
+    width: 1000px;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 43px;
+}
+
+.parcours-scolaire-description {
+    width: 917px;
+    height: 199px;
+    left: 36px;
+    top: 33px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.top-header {
+    width: 1440px;
+    height: 67px;
+    left: 0px;
+    top: 17px;
+    position: absolute;
+}
+
+.main-header {
+    width: 1440px;
+    height: 67px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.header {
+    width: 1440px;
+    height: 67px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #3E3A3A;
+    border-radius: 60px;
+}
+
+.nom {
+    width: 275px;
+    height: 56px;
+    left: 582px;
+    top: 5px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.github {
+    width: 49px;
+    height: 49px;
+    left: 1352px;
+    top: 8px;
+    position: absolute;
+}
+
+.mail {
+    width: 55.02px;
+    height: 49px;
+    left: 1272px;
+    top: 8px;
+    position: absolute;
+}
+
+.linkedin {
+    width: 49px;
+    height: 48.34px;
+    left: 1198px;
+    top: 9px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.projets {
+    width: 1440px;
+    height: 568px;
+    left: 0px;
+    top: 534px;
+    position: absolute;
+}
+
+.interetre {
+    width: 710px;
+    height: 480px;
+    left: 0px;
+    top: 88px;
+    position: absolute;
+}
+
+.rectangle-1 {
+    width: 710px;
+    height: 480px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 60px;
+}
+
+.re-par-passion {
+    width: 232px;
+    height: 44px;
+    left: 239px;
+    top: 11px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.mcserverproject {
+    width: 710px;
+    height: 220px;
+    left: 730px;
+    top: 91px;
+    position: absolute;
+}
+
+.rectangle-2 {
+    width: 710px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 60px;
+}
+
+.minecraftserverproject {
+    width: 355px;
+    height: 21px;
+    left: 177px;
+    top: 19px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.projetcours {
+    width: 710px;
+    height: 220px;
+    left: 730px;
+    top: 348px;
+    position: absolute;
+}
+
+.projets-insitutionnels {
+    width: 315px;
+    height: 22px;
+    left: 197px;
+    top: 14px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.projets-header {
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.rectangle-6 {
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #3E3A3A;
+    border-radius: 60px;
+}
+
+.projets-title {
+    left: 667px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.serveur-gnome {
+    width: 150px;
+    height: 150px;
+    left: 1010px;
+    top: 154px;
+    position: absolute;
+}
+
+.logo-iut {
+    width: 300px;
+    height: 117px;
+    left: 935px;
+    top: 417px;
+    position: absolute;
+}
+
+.who-am-i {
+    left: 0px;
+    top: 151px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 21px;
+    display: inline-flex;
+}
+
+.wai {
+    width: 1440px;
+    height: 60px;
+    position: relative;
+}
+
+.rectangle-7 {
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #3E3A3A;
+    border-radius: 60px;
+}
+
+.qui-suis-je {
+    left: 646px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.lorem-ipsum-wai {
+    width: 1000px;
+    height: 268px;
+    position: relative;
+}
+
+.rectangle-8 {
+    width: 1000px;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 43px;
+}
+
+.lorem-ipsum-description {
+    width: 959px;
+    height: 248px;
+    left: 39px;
+    top: 20px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.re-image {
+    width: 560px;
+    height: 380px;
+    left: 75px;
+    top: 688px;
+    position: absolute;
+}

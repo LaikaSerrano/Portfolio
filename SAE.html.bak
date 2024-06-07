@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<div class="ProjetsInstitutionnels" style="width: 1440px; height: 2824px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+		<div class="TopHeader" style="width: 1440px; height: 67px; left: 0px; top: 17px; position: relative; padding-bottom: 100px;">
+			<div class="MainHeader" style="width: 1440px; height: 67px; left: 0px; top: 0px; position: absolute">
+			  <div class="Header" style="width: 1440px; height: 67px; left: 0px; top: 0px; position: absolute; background: #3E3A3A; border-radius: 60px"></div>
+			  <a href="index.html">
+			  <div class="Nom" style="width: 275px; height: 56px; left: 582px; top: 5px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">Nathan Serrano</div>
+			  </a>
+			</div>
+			<img class="Github" style="width: 49px; height: 49px; left: 1352px; top: 8px; position: absolute" src="Logo_GitHub.svg" />
+			<img class="Mail" style="width: 55.02px; height: 49px; left: 1272px; top: 8px; position: absolute" src="email_logo.svg" />
+			<img class="Linkedin" style="width: 49px; height: 48.34px; left: 1198px; top: 9px; position: absolute; border-radius: 10px" src="linkedin_logo.svg" />
+		  </div>
+		<div class="ProjetsInstitutionnels" style="clear:both; width: 1440px; height: 60px; position: relative; margin-bottom: 80px;">
+		  <div class="Rectangle7" style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute; background: #3E3A3A; border-radius: 60px"></div>
+		  <div class="ProjetsInstitutionnels" style="left: 557px; top: 11px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">Projets institutionnels</div>
+		</div>
+		<div class="Saebdtitanic" style="clear:both; flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+		  <div class="Frame" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+			<div class="ProjetsInstitutionnels" style="width: 1440px; height: 60px; position: relative">
+			  <div class="Rectangle7" style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute; background: #3E3A3A; border-radius: 60px"></div>
+			  <div class="CrAtionDUneBaseDeDonnE" style="left: 485px; top: 10px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">Création d’une base de donnée</div>
+			</div>
+		  </div>
+		  <div class="CreationDUneBaseDeDonnE" style="width: 1000px; height: 268px; position: relative">
+			<div class="Rectangle8" style="width: 1000px; height: 260px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 43px"></div>
+			<div class="LoremIpsum" style="width: 959px; height: 248px; left: 39px; top: 20px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Lors de mon cursus j’ai été invité à créer une base de données à partir d’un fichier CSV de données brut, en l’occurence le thème était ”le Titanic”, pour illustrer voici à quoi ressemblait le schéma entité association que nous devions réaliser pour ensuite créer la base de données. Cela m’a donc apporté des compétences de conception de base ainsi que de création.</div>
+		  </div>
+		  <img class="Image1" style="width: 870px; height: 649px" src="SAETitanic.png" />
+		</div>
+		<div class="Saeguideinstallation" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+		  <div class="Frame" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+			<div class="ProjetsInstitutionnels" style="width: 1440px; height: 60px; position: relative">
+			  <div class="Rectangle7" style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute; background: #3E3A3A; border-radius: 60px"></div>
+			  <div class="GuideDInstallationDUneMachineVirtuelle" style="left: 399px; top: 10px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">Guide d’installation d’une machine virtuelle</div>
+			</div>
+		  </div>
+		  <div class="CreationDUneBaseDeDonnE" style="width: 1000px; height: 268px; position: relative">
+			<div class="Rectangle8" style="width: 1000px; height: 260px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 43px"></div>
+			<div class="LoremIpsum" style="width: 959px; height: 248px; left: 39px; top: 20px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Plus tard, j’ai eu comme tâche de créer un guide d’installation pour une machine virtuelle, à quelqu’un qui pourrait ne jamais avoir utilisé Linux de sa vie. La machine était sous debian 12 et la configuration de la machine en elle même n’avait pas pour but d’être expliqué pour simplifier la tâche. Bien que je sois déjà en mesure de créer et configurer une machine Linux, cela m’a apporté pour la communication, en effet devoir créer un guide est une bonne chose pour apprendre à parler simplement de ce que l’ont fait pour que la personne en face puisse simplement comprendre ce que l’on fait pour elle.</div>
+		  </div>
+		  <img class="Vminstallationsae1" style="width: 1280px; height: 838px" src="vmInstallationSAE.png" />
+		</div>
+		<div class="Autressae" style="width: 1440px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+		  <div class="Frame" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: flex">
+			<div class="ProjetsInstitutionnels" style="width: 1440px; height: 60px; position: relative">
+			  <div class="Rectangle7" style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute; background: #3E3A3A; border-radius: 60px"></div>
+			  <div class="AutresProjets" style="left: 614px; top: 10px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">Autres projets</div>
+			</div>
+		  </div>
+		  <div class="CreationDUneBaseDeDonnE" style="width: 1000px; height: 268px; position: relative">
+			<div class="Rectangle8" style="width: 1000px; height: 260px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 43px"></div>
+			<div class="LoremIpsum" style="width: 959px; height: 248px; left: 39px; top: 20px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">De nombreux autres projets ont été réalisé durant mon cursus mais pour ne pas surcharger ce portfolio pour d’autres renseignements je vous invite à m’envoyer un mail à l’adresse suivante : mail@laikaserrano.fr.<br/>Les projets non mentionné sont pour la plupart en rapport avec le développement d’application ou l’intégration avec toujours une partie communication.</div>
+		  </div>
+		  <div class="Vminstallationsae1" style="width: 1280px; height: 838px"></div>
+		</div>
+	  </div>
+</body>
+</html>
